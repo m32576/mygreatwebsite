@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Empty Project</title>
+        <script src="code.js" type="text/javascript" charset="utf-8"></script>        
+        <link href="myclasses.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <a href="welcome.html">Welcome</a>
+        
+        <h1> My Classes Are: </h1>
+         <table>
+              <tr>
+                <th> Period   </th>
+                <th> subject </th>
+    
+              </tr>
+  <tr>
+<td>1</td>
+<td>PE </td>
+</tr>
+  
+          <tr>
+            <td>2</td>
+            <td> Computer Science</td>
+            </tr>
+  
+<tr>
+<td>3</td>
+<td> Chemstry </td>
+</tr>
+
+<tr> 
+<td>4</td>
+<td> H English</td>
+</tr>
+
+<tr> 
+<td>5</td>
+<td> Spanish 1</td>
+</tr>
+
+<tr> 
+<td>6</td>
+<td> Algebra</td>
+</tr>
+
+        </table>
+    </body>
+</html>
+
+body { 
+      background-image: url("https://ghchs.booktix.com/uploads/images/ghchs-showLogo-10.png");
+    background-repeat: no-repeat;
+    background-size: 100%;  
+}
+table, td, th {
+    border: 1px solid black ;
+    font-size: 30px;
+}
+
+
