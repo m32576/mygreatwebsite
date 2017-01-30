@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Empty Project</title>
+        <script src="code.js" type="text/javascript" charset="utf-8"></script>        
+        <link href="myhobbies.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+                <a href="welcome.html">Welcome</a>
+        <h1> Hobbies </h1>
+<p>One hobby i have is watching youtube videos.</p>  
+<p>Another could be snowboarding and skateboarding.</p>
+<p>I love playing video games and reading mangas.  </p>
+<p>I truly love romance animes but any animes is fun to watch.  </p>
+<p>I love playing soccer. </p>
+<p>I enjoy watching tv shows like Supernatural, Bones, NCIS and Criminals Minds. </p>
+<p>Listening to music is my favorite thing to do. </p>
+<p>There are so many bands I listen to: </p>
+
+ <ul> 
+<li> Twenty-one Pilots</li>
+<li> Green Day</li>
+<li> 21 Savage</li> 
+<li>Panic! At The Disco </li>
+<li> Marc Anthony </li>
+<li> Bring Me To The Horizon</li>
+<li> Coldplay</li>
+</ul>
+
+<p>I think you get the point, the list could just go on forever. </p>
+
+
+    </body>
+</html>
+
+Body, h1, ul {
+ color: Maroon;   
+}
+body { 
+      background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ee/29/9a/ee299a7ce3e37b7503f567345caa016a.jpg");
+    background-repeat: no-repeat;
+    background-size: 99%;  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
