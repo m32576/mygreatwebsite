@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Empty Project</title>
+        <script src="code.js" type="text/javascript" charset="utf-8"></script>        
+        <link href="myschool.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <a href="welcome.html">Welcome</a>
+        <p> I'm a freshman and I attend Granada Hills Charter High School</p>
+        <p> I play soccer, I tried out for the soccer team at Granada but sadly</p>
+        <p> didn't make it because I only went to the last day of tryouts.</p>
+        <p> i have many friends in each of my classes. </p>
+        
+        <img src="http://cdn1.listovative.com/wp-content/uploads/2016/03/547301-b1566610-773e-11e3-98ae-18260220474f.jpg" alt="Name" width="500" height="350" align = "center"> 
+        
+        <p> Such as: </p>
+        <ul> 
+        <li>Marie</li>
+        <li>Stacy</li>
+        <li>Ethan</li>
+        <li>Paris</li>
+        <li>Gwen</li>
+        <li>Emma</li>
+        <li>Mark</li>
+        <li>Nya</li>
+        <li>Melanie</li>
+        <li>Jess</li>
+        <li>Aidan</li>
+        <li>Natalie</li>
+        </ul> 
+    </body>
+</html>
+body { 
+      background-image: url("https://s-media-cache-ak0.pinimg.com/736x/a0/33/e9/a033e9e2148b95cc41a0f19bc63b990d.jpg");
+    background-repeat: repeat;
+    background-size: 100%;  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
